@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="Words">
+        <EditTextPreference
+            android:defaultValue="Panic"
+            android:key="triggerWords"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:summary="that trigger YOUR alarm (separate with whatever you want)"
+            android:title="Trigger words" />
+        <EditTextPreference
+            android:defaultValue="Panic"
+            android:key="keyword"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:summary="that triggers THEIR alarm"
+            android:title="Trigger word" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Numbers">
+        <Preference
+            android:title="Trigger numbers"
+            android:summary="that trigger YOUR alarm" >
+            <intent android:action="android.intent.action.VIEW"
+                android:targetPackage="at.tacticaldevc.panictrigger"
+                android:targetClass="at.tacticaldevc.panictrigger.ContactPickerActivity"
+                android:data="@string/var_numbers_trigger"/>
+        </Preference>
+        <Preference
+            android:title="Notify numbers"
+            android:summary="to trigger THEIR alarm" >
+            <intent android:action="android.intent.action.VIEW"
+                android:targetPackage="at.tacticaldevc.panictrigger"
+                android:targetClass="at.tacticaldevc.panictrigger.ContactPickerActivity"
+                android:data="@string/var_numbers_notify"/>
+        </Preference>
+    </PreferenceCategory>
+</PreferenceScreen>
