@@ -43,8 +43,7 @@ public class TriggerActivity extends AppCompatActivity implements View.OnClickLi
         {
             new AlertDialog.Builder(this)
                     .setTitle("Oh, hey there!")
-                    .setMessage("Looks like you are using my app! :)\n" +
-                            "Welcome! First I will tell you a little bit about the purpose of this app.\n" +
+                    .setMessage("Welcome! First I will tell you a little bit about the purpose of this app.\n" +
                             "It has been made for emergency situations where you may need help or just want " +
                             "to alarm your friends. This is especially useful e.g. if you feel like someone " +
                             "is following you and don't want to call the police because it could cause your " +

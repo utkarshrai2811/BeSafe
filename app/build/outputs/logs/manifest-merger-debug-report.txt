@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:2:1-51:12
-INJECTED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:2:1-51:12
-INJECTED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:2:1-51:12
-INJECTED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:2:1-51:12
+ADDED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:2:1-51:12
 MERGED from [com.android.support:design:28.0.0] C:\Users\Utkarsh Rai\.gradle\caches\transforms-2\files-2.1\1c4fd9a4c3095b679bed23a46e0bcf6c\design-28.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Utkarsh Rai\.gradle\caches\transforms-2\files-2.1\aaffe2c7f23d715ca045db9d0a51d031\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Utkarsh Rai\.gradle\caches\transforms-2\files-2.1\f0b606c9fced75b8c2c36f0323cf799c\constraint-layout-1.1.3\AndroidManifest.xml:2:1-11:12
@@ -38,73 +38,73 @@ MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Utkarsh Rai\.grad
 MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Utkarsh Rai\.gradle\caches\transforms-2\files-2.1\f33d666ad8cee70ee4e661f9bad8e372\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Utkarsh Rai\.gradle\caches\transforms-2\files-2.1\85526c118dcfe3eae0cf402e2cecc572\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Utkarsh Rai\.gradle\caches\transforms-2\files-2.1\5853616defd81755613306a8befefe63\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:2:1-51:12
-INJECTED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:2:1-51:12
-INJECTED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:2:1-51:12
 	package
-		ADDED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:4:5-43
-		INJECTED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:4:5-43
+		INJECTED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:2:1-51:12
-		INJECTED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:2:1-51:12
+		INJECTED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:3:5-51
+		ADDED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:2:1-51:12
-		INJECTED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:2:1-51:12
+		INJECTED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:2:11-69
 uses-feature#android.hardware.telephony
-ADDED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:6:5-8:36
+ADDED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:6:5-8:36
 MERGED from [org.osmdroid:osmdroid-android:6.0.3] C:\Users\Utkarsh Rai\.gradle\caches\transforms-2\files-2.1\f4389bc743ae49badb0a2e160bb66610\osmdroid-android-6.0.3\AndroidManifest.xml:22:5-24:36
 MERGED from [org.osmdroid:osmdroid-android:6.0.3] C:\Users\Utkarsh Rai\.gradle\caches\transforms-2\files-2.1\f4389bc743ae49badb0a2e160bb66610\osmdroid-android-6.0.3\AndroidManifest.xml:22:5-24:36
 	android:required
-		ADDED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:8:9-33
+		ADDED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:8:9-33
 	android:name
-		ADDED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:7:9-50
+		ADDED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:7:9-50
 uses-feature#android.hardware.location.gps
-ADDED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:9:5-66
+ADDED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:9:5-66
 MERGED from [org.osmdroid:osmdroid-android:6.0.3] C:\Users\Utkarsh Rai\.gradle\caches\transforms-2\files-2.1\f4389bc743ae49badb0a2e160bb66610\osmdroid-android-6.0.3\AndroidManifest.xml:19:5-21:36
 MERGED from [org.osmdroid:osmdroid-android:6.0.3] C:\Users\Utkarsh Rai\.gradle\caches\transforms-2\files-2.1\f4389bc743ae49badb0a2e160bb66610\osmdroid-android-6.0.3\AndroidManifest.xml:19:5-21:36
 	android:name
-		ADDED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:9:19-63
+		ADDED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:9:19-63
 uses-permission#android.permission.RECEIVE_SMS
-ADDED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:11:5-70
+ADDED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:11:5-70
 	android:name
-		ADDED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:11:22-67
+		ADDED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:11:22-67
 uses-permission#android.permission.SEND_SMS
-ADDED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:12:5-67
+ADDED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:12:5-67
 	android:name
-		ADDED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:12:22-64
+		ADDED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:12:22-64
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:13:5-79
+ADDED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:13:5-79
 	android:name
-		ADDED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:13:22-76
+		ADDED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:13:22-76
 uses-permission#android.permission.CALL_PHONE
-ADDED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:14:5-69
+ADDED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:14:5-69
 	android:name
-		ADDED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:14:22-66
+		ADDED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:14:22-66
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:15:5-67
+ADDED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:15:5-67
 	android:name
-		ADDED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:15:22-64
+		ADDED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:15:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:16:5-79
+ADDED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:16:5-79
 	android:name
-		ADDED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:16:22-76
+		ADDED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:16:22-76
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:17:5-81
+ADDED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:17:5-81
 	android:name
-		ADDED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:17:22-78
+		ADDED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:17:22-78
 uses-permission#android.permission.VIBRATE
-ADDED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:18:5-65
+ADDED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:18:5-65
 	android:name
-		ADDED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:18:22-63
+		ADDED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:18:22-63
 application
-ADDED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:21:5-49:19
+ADDED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:21:5-49:19
 MERGED from [com.android.support:design:28.0.0] C:\Users\Utkarsh Rai\.gradle\caches\transforms-2\files-2.1\1c4fd9a4c3095b679bed23a46e0bcf6c\design-28.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:28.0.0] C:\Users\Utkarsh Rai\.gradle\caches\transforms-2\files-2.1\1c4fd9a4c3095b679bed23a46e0bcf6c\design-28.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Utkarsh Rai\.gradle\caches\transforms-2\files-2.1\f0b606c9fced75b8c2c36f0323cf799c\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
@@ -116,63 +116,63 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Utkarsh Ra
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Utkarsh Rai\.gradle\caches\transforms-2\files-2.1\4e7b3bbed8e6e29e2ba6d4fc6e8eccff\support-compat-28.0.0\AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:26:9-35
+		ADDED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:26:9-35
 	android:label
-		ADDED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:24:9-41
+		ADDED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:24:9-41
 	tools:ignore
-		ADDED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:28:9-48
+		ADDED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:28:9-48
 	android:roundIcon
-		ADDED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:25:9-46
+		ADDED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:25:9-46
 	android:icon
-		ADDED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:23:9-41
+		ADDED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:23:9-41
 	android:allowBackup
-		ADDED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:22:9-35
+		ADDED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:22:9-35
 	android:theme
-		ADDED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:27:9-40
+		ADDED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:27:9-40
 activity#at.tacticaldevc.panictrigger.TriggerActivity
-ADDED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:29:9-35:20
+ADDED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:29:9-35:20
 	android:name
-		ADDED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:29:19-50
+		ADDED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:29:19-50
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:30:13-34:29
+ADDED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:30:13-34:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:31:17-69
+ADDED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:31:17-69
 	android:name
-		ADDED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:31:25-66
+		ADDED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:31:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:33:17-77
+ADDED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:33:17-77
 	android:name
-		ADDED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:33:27-74
+		ADDED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:33:27-74
 receiver#at.tacticaldevc.panictrigger.SMSListener
-ADDED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:37:9-41:20
+ADDED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:37:9-41:20
 	android:name
-		ADDED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:37:19-46
+		ADDED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:37:19-46
 intent-filter#action:name:android.provider.Telephony.SMS_RECEIVED
-ADDED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:38:13-40:29
+ADDED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:38:13-40:29
 action#android.provider.Telephony.SMS_RECEIVED
-ADDED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:39:17-82
+ADDED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:39:17-82
 	android:name
-		ADDED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:39:25-79
+		ADDED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:39:25-79
 activity#at.tacticaldevc.panictrigger.SettingsActivity
-ADDED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:43:9-54
+ADDED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:43:9-54
 	android:name
-		ADDED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:43:19-51
+		ADDED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:43:19-51
 activity#at.tacticaldevc.panictrigger.ContactPickerActivity
-ADDED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:44:9-47:47
+ADDED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:44:9-47:47
 	android:label
-		ADDED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:46:13-66
+		ADDED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:46:13-66
 	android:theme
-		ADDED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:47:13-44
+		ADDED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:47:13-44
 	android:name
-		ADDED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:45:13-50
+		ADDED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:45:13-50
 activity#at.tacticaldevc.panictrigger.MapActivity
-ADDED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:48:9-58
+ADDED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:48:9-58
 	android:name
-		ADDED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml:48:19-46
+		ADDED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:48:19-46
 uses-sdk
-INJECTED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml
 MERGED from [com.android.support:design:28.0.0] C:\Users\Utkarsh Rai\.gradle\caches\transforms-2\files-2.1\1c4fd9a4c3095b679bed23a46e0bcf6c\design-28.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:design:28.0.0] C:\Users\Utkarsh Rai\.gradle\caches\transforms-2\files-2.1\1c4fd9a4c3095b679bed23a46e0bcf6c\design-28.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Utkarsh Rai\.gradle\caches\transforms-2\files-2.1\aaffe2c7f23d715ca045db9d0a51d031\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
@@ -241,16 +241,16 @@ MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Utkarsh Rai\.g
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Utkarsh Rai\.gradle\caches\transforms-2\files-2.1\85526c118dcfe3eae0cf402e2cecc572\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Utkarsh Rai\.gradle\caches\transforms-2\files-2.1\5853616defd81755613306a8befefe63\runtime-1.1.1\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Utkarsh Rai\.gradle\caches\transforms-2\files-2.1\5853616defd81755613306a8befefe63\runtime-1.1.1\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Utkarsh Rai\PanicTrigger\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml
 supports-screens
 ADDED from [org.osmdroid:osmdroid-android:6.0.3] C:\Users\Utkarsh Rai\.gradle\caches\transforms-2\files-2.1\f4389bc743ae49badb0a2e160bb66610\osmdroid-android-6.0.3\AndroidManifest.xml:11:5-14:40
 	android:largeScreens

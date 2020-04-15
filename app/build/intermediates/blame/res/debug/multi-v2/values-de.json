@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Utkarsh Rai\\PanicTrigger\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-de\\values-de.xml",
+            "outputFile": "C:\\Users\\Utkarsh Rai\\BeSafe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-de\\values-de.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Utkarsh Rai\\.gradle\\caches\\transforms-2\\files-2.1\\f4389bc743ae49badb0a2e160bb66610\\osmdroid-android-6.0.3\\res\\values-de\\values-de.xml",
