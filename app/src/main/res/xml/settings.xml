@@ -22,16 +22,16 @@
             android:title="Trigger numbers"
             android:summary="that trigger YOUR alarm" >
             <intent android:action="android.intent.action.VIEW"
-                android:targetPackage="at.tacticaldevc.panictrigger"
-                android:targetClass="at.tacticaldevc.panictrigger.ContactPickerActivity"
+                android:targetPackage="proj.bennett.besafe"
+                android:targetClass="aproj.bennett.besafe.ContactPickerActivity"
                 android:data="@string/var_numbers_trigger"/>
         </Preference>
         <Preference
             android:title="Notify numbers"
             android:summary="to trigger THEIR alarm" >
             <intent android:action="android.intent.action.VIEW"
-                android:targetPackage="at.tacticaldevc.panictrigger"
-                android:targetClass="at.tacticaldevc.panictrigger.ContactPickerActivity"
+                android:targetPackage="proj.bennett.besafe"
+                android:targetClass="proj.bennett.besafe.ContactPickerActivity"
                 android:data="@string/var_numbers_notify"/>
         </Preference>
     </PreferenceCategory>

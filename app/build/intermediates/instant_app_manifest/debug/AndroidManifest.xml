@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="at.tacticaldevc.panictrigger"
+    package="proj.bennett.besafe"
     android:targetSandboxVersion="2"
     android:versionCode="10"
     android:versionName="v0.5" >
