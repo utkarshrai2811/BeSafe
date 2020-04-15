@@ -20,12 +20,12 @@
         "source": "C:\\Users\\Utkarsh Rai\\BeSafe\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\Utkarsh Rai\\BeSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_call.xml.flat",
-        "source": "C:\\Users\\Utkarsh Rai\\BeSafe\\app\\src\\main\\res\\drawable-anydpi\\ic_call.xml"
-    },
-    {
         "merged": "C:\\Users\\Utkarsh Rai\\BeSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_dialog_contact_entry.xml.flat",
         "source": "C:\\Users\\Utkarsh Rai\\BeSafe\\app\\src\\main\\res\\layout\\content_dialog_contact_entry.xml"
+    },
+    {
+        "merged": "C:\\Users\\Utkarsh Rai\\BeSafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_call.xml.flat",
+        "source": "C:\\Users\\Utkarsh Rai\\BeSafe\\app\\src\\main\\res\\drawable-anydpi\\ic_call.xml"
     },
     {
         "merged": "C:\\Users\\Utkarsh Rai\\BeSafe\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_settings.xml.flat",

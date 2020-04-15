@@ -44,7 +44,7 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="at.tacticaldevc.panictrigger.TriggerActivity" >
+        <activity android:name="proj.bennett.besafe.TriggerActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -52,18 +52,18 @@
             </intent-filter>
         </activity>
 
-        <receiver android:name="at.tacticaldevc.panictrigger.SMSListener" >
+        <receiver android:name="proj.bennett.besafe.SMSListener" >
             <intent-filter>
                 <action android:name="android.provider.Telephony.SMS_RECEIVED" />
             </intent-filter>
         </receiver>
 
-        <activity android:name="at.tacticaldevc.panictrigger.SettingsActivity" />
+        <activity android:name="proj.bennett.besafe.SettingsActivity" />
         <activity
-            android:name="at.tacticaldevc.panictrigger.ContactPickerActivity"
+            android:name="proj.bennett.besafe.ContactPickerActivity"
             android:label="@string/title_activity_contact_picker"
             android:theme="@style/AppTheme" />
-        <activity android:name="at.tacticaldevc.panictrigger.MapActivity" />
+        <activity android:name="proj.bennett.besafe.MapActivity" />
     </application>
 
 </manifest>
