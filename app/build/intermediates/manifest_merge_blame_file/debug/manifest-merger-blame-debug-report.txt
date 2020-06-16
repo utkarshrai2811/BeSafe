@@ -46,85 +46,86 @@
 23-->C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:19:22-63
 24
 25    <supports-screens
-25-->[org.osmdroid:osmdroid-android:6.0.3] C:\Users\Utkarsh Rai\.gradle\caches\transforms-2\files-2.1\f4389bc743ae49badb0a2e160bb66610\osmdroid-android-6.0.3\AndroidManifest.xml:11:5-14:40
+25-->[org.osmdroid:osmdroid-android:6.0.3] C:\Users\Utkarsh Rai\.gradle\caches\transforms-2\files-2.1\d7c6cd19e3648e94575db374421b3f4d\osmdroid-android-6.0.3\AndroidManifest.xml:11:5-14:40
 26        android:anyDensity="true"
-26-->[org.osmdroid:osmdroid-android:6.0.3] C:\Users\Utkarsh Rai\.gradle\caches\transforms-2\files-2.1\f4389bc743ae49badb0a2e160bb66610\osmdroid-android-6.0.3\AndroidManifest.xml:12:9-34
+26-->[org.osmdroid:osmdroid-android:6.0.3] C:\Users\Utkarsh Rai\.gradle\caches\transforms-2\files-2.1\d7c6cd19e3648e94575db374421b3f4d\osmdroid-android-6.0.3\AndroidManifest.xml:12:9-34
 27        android:largeScreens="true"
-27-->[org.osmdroid:osmdroid-android:6.0.3] C:\Users\Utkarsh Rai\.gradle\caches\transforms-2\files-2.1\f4389bc743ae49badb0a2e160bb66610\osmdroid-android-6.0.3\AndroidManifest.xml:13:9-36
+27-->[org.osmdroid:osmdroid-android:6.0.3] C:\Users\Utkarsh Rai\.gradle\caches\transforms-2\files-2.1\d7c6cd19e3648e94575db374421b3f4d\osmdroid-android-6.0.3\AndroidManifest.xml:13:9-36
 28        android:normalScreens="true" />
-28-->[org.osmdroid:osmdroid-android:6.0.3] C:\Users\Utkarsh Rai\.gradle\caches\transforms-2\files-2.1\f4389bc743ae49badb0a2e160bb66610\osmdroid-android-6.0.3\AndroidManifest.xml:14:9-37
+28-->[org.osmdroid:osmdroid-android:6.0.3] C:\Users\Utkarsh Rai\.gradle\caches\transforms-2\files-2.1\d7c6cd19e3648e94575db374421b3f4d\osmdroid-android-6.0.3\AndroidManifest.xml:14:9-37
 29
 30    <uses-feature
-30-->[org.osmdroid:osmdroid-android:6.0.3] C:\Users\Utkarsh Rai\.gradle\caches\transforms-2\files-2.1\f4389bc743ae49badb0a2e160bb66610\osmdroid-android-6.0.3\AndroidManifest.xml:16:5-18:36
+30-->[org.osmdroid:osmdroid-android:6.0.3] C:\Users\Utkarsh Rai\.gradle\caches\transforms-2\files-2.1\d7c6cd19e3648e94575db374421b3f4d\osmdroid-android-6.0.3\AndroidManifest.xml:16:5-18:36
 31        android:name="android.hardware.location.network"
-31-->[org.osmdroid:osmdroid-android:6.0.3] C:\Users\Utkarsh Rai\.gradle\caches\transforms-2\files-2.1\f4389bc743ae49badb0a2e160bb66610\osmdroid-android-6.0.3\AndroidManifest.xml:17:9-57
+31-->[org.osmdroid:osmdroid-android:6.0.3] C:\Users\Utkarsh Rai\.gradle\caches\transforms-2\files-2.1\d7c6cd19e3648e94575db374421b3f4d\osmdroid-android-6.0.3\AndroidManifest.xml:17:9-57
 32        android:required="false" />
-32-->[org.osmdroid:osmdroid-android:6.0.3] C:\Users\Utkarsh Rai\.gradle\caches\transforms-2\files-2.1\f4389bc743ae49badb0a2e160bb66610\osmdroid-android-6.0.3\AndroidManifest.xml:18:9-33
+32-->[org.osmdroid:osmdroid-android:6.0.3] C:\Users\Utkarsh Rai\.gradle\caches\transforms-2\files-2.1\d7c6cd19e3648e94575db374421b3f4d\osmdroid-android-6.0.3\AndroidManifest.xml:18:9-33
 33    <uses-feature
-33-->[org.osmdroid:osmdroid-android:6.0.3] C:\Users\Utkarsh Rai\.gradle\caches\transforms-2\files-2.1\f4389bc743ae49badb0a2e160bb66610\osmdroid-android-6.0.3\AndroidManifest.xml:25:5-27:36
+33-->[org.osmdroid:osmdroid-android:6.0.3] C:\Users\Utkarsh Rai\.gradle\caches\transforms-2\files-2.1\d7c6cd19e3648e94575db374421b3f4d\osmdroid-android-6.0.3\AndroidManifest.xml:25:5-27:36
 34        android:name="android.hardware.wifi"
-34-->[org.osmdroid:osmdroid-android:6.0.3] C:\Users\Utkarsh Rai\.gradle\caches\transforms-2\files-2.1\f4389bc743ae49badb0a2e160bb66610\osmdroid-android-6.0.3\AndroidManifest.xml:26:9-45
+34-->[org.osmdroid:osmdroid-android:6.0.3] C:\Users\Utkarsh Rai\.gradle\caches\transforms-2\files-2.1\d7c6cd19e3648e94575db374421b3f4d\osmdroid-android-6.0.3\AndroidManifest.xml:26:9-45
 35        android:required="false" /> <!-- <uses-permission android:name="android.permission.READ_CONTACTS"/> -->
-35-->[org.osmdroid:osmdroid-android:6.0.3] C:\Users\Utkarsh Rai\.gradle\caches\transforms-2\files-2.1\f4389bc743ae49badb0a2e160bb66610\osmdroid-android-6.0.3\AndroidManifest.xml:27:9-33
+35-->[org.osmdroid:osmdroid-android:6.0.3] C:\Users\Utkarsh Rai\.gradle\caches\transforms-2\files-2.1\d7c6cd19e3648e94575db374421b3f4d\osmdroid-android-6.0.3\AndroidManifest.xml:27:9-33
 36    <application
 36-->C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:22:5-50:19
-37        android:allowBackup="true"
-37-->C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:23:9-35
-38        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
-38-->[com.android.support:support-compat:28.0.0] C:\Users\Utkarsh Rai\.gradle\caches\transforms-2\files-2.1\4e7b3bbed8e6e29e2ba6d4fc6e8eccff\support-compat-28.0.0\AndroidManifest.xml:22:18-91
-39        android:debuggable="true"
-40        android:extractNativeLibs="false"
-41        android:icon="@drawable/ic_logo"
+37        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+37-->[com.android.support:support-compat:28.0.0] C:\Users\Utkarsh Rai\.gradle\caches\transforms-2\files-2.1\09c1f5634c674c46b74176ad3d1ddced\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+38        android:debuggable="true"
+39        android:extractNativeLibs="false"
+40        android:icon="@drawable/ic_logo"
+40-->C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:23:9-41
+41        android:label="@string/app_name"
 41-->C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:24:9-41
-42        android:label="@string/app_name"
-42-->C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:25:9-41
-43        android:roundIcon="@drawable/ic_logo"
-43-->C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:26:9-46
-44        android:supportsRtl="true"
-44-->C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:27:9-35
-45        android:testOnly="true"
-46        android:theme="@style/AppTheme" >
-46-->C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:28:9-40
-47        <activity android:name="proj.bennett.besafe.TriggerActivity" >
-47-->C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:30:9-36:20
-47-->C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:30:19-50
-48            <intent-filter>
-48-->C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:31:13-35:29
-49                <action android:name="android.intent.action.MAIN" />
-49-->C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:32:17-69
-49-->C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:32:25-66
-50
-51                <category android:name="android.intent.category.LAUNCHER" />
-51-->C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:34:17-77
-51-->C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:34:27-74
-52            </intent-filter>
-53        </activity>
-54
-55        <receiver android:name="proj.bennett.besafe.SMSListener" >
-55-->C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:38:9-42:20
-55-->C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:38:19-46
-56            <intent-filter>
-56-->C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:39:13-41:29
-57                <action android:name="android.provider.Telephony.SMS_RECEIVED" />
-57-->C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:40:17-82
-57-->C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:40:25-79
-58            </intent-filter>
-59        </receiver>
-60
-61        <activity android:name="proj.bennett.besafe.SettingsActivity" />
-61-->C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:44:9-54
-61-->C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:44:19-51
-62        <activity
-62-->C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:45:9-48:47
-63            android:name="proj.bennett.besafe.ContactPickerActivity"
-63-->C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:46:13-50
-64            android:label="@string/title_activity_contact_picker"
-64-->C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:47:13-66
-65            android:theme="@style/AppTheme" />
-65-->C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:48:13-44
-66        <activity android:name="proj.bennett.besafe.MapActivity" />
-66-->C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:49:9-58
-66-->C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:49:19-46
-67    </application>
-68
-69</manifest>
+42        android:roundIcon="@drawable/ic_logo"
+42-->C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:25:9-46
+43        android:supportsRtl="true"
+43-->C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:26:9-35
+44        android:testOnly="true"
+45        android:theme="@style/AppTheme" >
+45-->C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:27:9-40
+46        <activity android:name="proj.bennett.besafe.TriggerActivity" >
+46-->C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:29:9-35:20
+46-->C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:29:19-50
+47            <intent-filter>
+47-->C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:30:13-34:29
+48                <action android:name="android.intent.action.MAIN" />
+48-->C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:31:17-69
+48-->C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:31:25-66
+49
+50                <category android:name="android.intent.category.LAUNCHER" />
+50-->C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:33:17-77
+50-->C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:33:27-74
+51            </intent-filter>
+52        </activity>
+53
+54        <receiver
+54-->C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:37:9-42:20
+55            android:name="proj.bennett.besafe.SMSListener"
+55-->C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:37:19-46
+56            android:permission="android.permission.BROADCAST_SMS" >
+56-->C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:38:13-66
+57            <intent-filter>
+57-->C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:39:13-41:29
+58                <action android:name="android.provider.Telephony.SMS_RECEIVED" />
+58-->C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:40:17-82
+58-->C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:40:25-79
+59            </intent-filter>
+60        </receiver>
+61
+62        <activity android:name="proj.bennett.besafe.SettingsActivity" />
+62-->C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:44:9-54
+62-->C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:44:19-51
+63        <activity
+63-->C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:45:9-48:47
+64            android:name="proj.bennett.besafe.ContactPickerActivity"
+64-->C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:46:13-50
+65            android:label="@string/title_activity_contact_picker"
+65-->C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:47:13-66
+66            android:theme="@style/AppTheme" />
+66-->C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:48:13-44
+67        <activity android:name="proj.bennett.besafe.MapActivity" />
+67-->C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:49:9-58
+67-->C:\Users\Utkarsh Rai\BeSafe\app\src\main\AndroidManifest.xml:49:19-46
+68    </application>
+69
+70</manifest>

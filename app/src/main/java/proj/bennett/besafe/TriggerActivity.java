@@ -145,7 +145,7 @@ public class TriggerActivity extends AppCompatActivity implements View.OnClickLi
 
     private void sendOutPanic(Location loc)
     {
-        String keyword = getSharedPreferences("conf", MODE_PRIVATE).getString(getString(R.string.var_words_keyword), "Panic");
+        String keyword = getSharedPreferences("conf", MODE_PRIVATE).getString(getString(R.string.var_words_keyword), "Help Me" + "\n" + "Coordinates:" );
         SmsManager manager = SmsManager.getDefault();
         for (Contact c : notifyContacts)
         {
